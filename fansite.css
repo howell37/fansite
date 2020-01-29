@@ -1,0 +1,72 @@
+h1{
+  color: gold;
+  text-align: center;
+  font-family: fantasy;
+
+}
+
+body{
+  background-color: black;
+}
+
+hr{
+  background-color: orange;
+}
+
+.carousel-inner{
+
+  width: 600px;
+  height: 600px;
+
+}
+
+.carousel-item{
+
+
+}
+
+#carousel{
+  width: 400px;
+  height: 550px;
+  margin: auto;
+  justify-content: center;
+}
+
+.layout{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+
+#card{
+  flex: 1;
+}
+
+.pic{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.thumbnail_title{
+  background-color: red;
+  text-align: center;
+  width: 200px;
+}
+
+.mr-3{
+  width: 200px;
+  height: 200px;
+
+}
+
+.info{
+  color: red;
+}
+
+.mt-0{
+  color: orange;
+  text-align: center;
+  text-decoration: underline;
+}
